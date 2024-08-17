@@ -197,7 +197,7 @@ sections:
           the lesson is over.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/location.png
           altText: Featured icon two
           elementId: ''
         actions: []
