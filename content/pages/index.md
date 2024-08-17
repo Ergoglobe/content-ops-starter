@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Full Attention
-        subtitle: Numbers Done
+        subtitle: One on One
         text: >
           One-on-one behind-the-wheel driving lessons for teens, adults and
           senior citizens
