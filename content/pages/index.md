@@ -41,7 +41,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Pick Up and Drop Off
-        subtitle: The Job Stuff
+        subtitle: Transportation
         text: >
           We will pick you up from home, school, or work and bring you back when
           the lesson is over.
