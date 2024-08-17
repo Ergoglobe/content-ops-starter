@@ -228,7 +228,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Language Options
       color: text-dark
       styles:
         self:
