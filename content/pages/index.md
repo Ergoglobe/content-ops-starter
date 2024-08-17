@@ -46,7 +46,7 @@ sections:
       instructing.
     actions:
       - type: Button
-        label: Get started
+        label: Text Now
         url: /
         icon: arrowRight
         iconPosition: right
