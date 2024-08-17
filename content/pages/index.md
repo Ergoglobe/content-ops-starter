@@ -300,7 +300,7 @@ sections:
           Monday - Sunday 7:00am – 9:00pm
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/work-schedule.png
           altText: Featured icon three
           elementId: ''
         actions: []
