@@ -42,10 +42,9 @@ sections:
       - type: FeaturedItem
         title: Pick Up and Drop Off
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We will pick you up from home, school, or work and bring you back when
+          the lesson is over.
         image:
           type: ImageBlock
           url: /images/icon2.svg
