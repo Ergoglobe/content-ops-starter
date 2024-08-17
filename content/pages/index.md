@@ -15,10 +15,9 @@ sections:
       - type: FeaturedItem
         title: Full Attention
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          One-on-one behind-the-wheel driving lessons for teens, adults and
+          senior citizens
         image:
           type: ImageBlock
           url: /images/icon1.svg
