@@ -93,10 +93,9 @@ sections:
       - type: FeaturedItem
         title: Completion Certificate
         subtitle: Insurance
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The certificate may qualify you to receive up to a 10% discount off of
+          your insurance.
         image:
           type: ImageBlock
           url: /images/icon1.svg
