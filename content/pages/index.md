@@ -15,18 +15,11 @@ sections:
       of 6 to 10 hours.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Call Now
+        url: 'tel:6108447866'
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/1_twFSBYafi4rxtuLC1r1JLQ.jpg
@@ -53,18 +46,11 @@ sections:
       instructing.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Text Now
+        url: 'sms:+16109845473&body=Driving%20School%20Information'
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/043688df-what-is-defensive-driving-1024x576.jpg
