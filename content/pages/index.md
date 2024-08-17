@@ -278,7 +278,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Other Languages
-        subtitle: Engineering
+        subtitle: ''
         text: >
           If you provide your own translator, they are free to sit in the back
           and help translate.
