@@ -67,7 +67,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/043688df-what-is-defensive-driving-1024x576.jpg
       altText: Fun feature preview
     badge:
       type: Badge
