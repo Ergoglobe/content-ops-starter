@@ -115,7 +115,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Text
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Alan: 610-844-7866
