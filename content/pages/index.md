@@ -40,6 +40,118 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Defensive Driving
+      color: text-dark
+    subtitle: ''
+    text: >
+      Getting a driver's license is easy but being a safe driver is very
+      difficult. We can not afford to make any mistakes while driving a motor
+      vehicle so we constantly stress defensive driving techniques while
+      instructing.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Contact Us
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: 'Any Day, Any Time, Including Holidays'
+    items:
+      - type: FeaturedItem
+        title: Call
+        tagline: ''
+        subtitle: ''
+        text: |
+          Alan: 610-844-7866
+
+          Bill: 610-984-5473
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Text
+        tagline: ''
+        subtitle: ''
+        text: |
+          Alan: 610-844-7866
+
+          Bill: 610-984-5473
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -236,12 +348,9 @@ sections:
     subtitle: We Can Speak A Few
     items:
       - type: FeaturedItem
-        title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: English
+        subtitle: ''
+        text: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -256,12 +365,16 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Spanish
+        subtitle: ''
+        text: >
+          We know enough basics to teach you how to drive and if you have
+          someone who can help translate we can teach you faster.
+
+
+          Sabemos suficientes conceptos básicos para enseñarle a conducir y si
+          tiene a alguien que pueda ayudarlo a traducir, podemos enseñarle más
+          rápido.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -276,12 +389,11 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Other Languages
+        subtitle: ''
+        text: >
+          If you provide your own translator, they are free to sit in the back
+          and help translate.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
