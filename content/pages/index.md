@@ -279,10 +279,9 @@ sections:
       - type: FeaturedItem
         title: Other Languages
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          If you provide your own translator, they are free to sit in the back
+          and help translate.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
