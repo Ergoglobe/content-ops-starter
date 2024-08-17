@@ -88,7 +88,7 @@ sections:
     subtitle: 'Any Day, Any Time, Including Holidays'
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Call
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
