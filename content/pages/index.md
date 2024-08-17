@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Over 35 Years of Combined Experience Instructing
     items:
       - type: FeaturedItem
         title: Full Attention
