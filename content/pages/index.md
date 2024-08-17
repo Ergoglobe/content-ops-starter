@@ -9,5 +9,7 @@ seo:
     and people of all ages and skill levels.
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
