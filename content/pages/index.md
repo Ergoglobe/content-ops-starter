@@ -221,7 +221,7 @@ sections:
           Driver License Center at a time and date that you prefer.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/schedule.png
           altText: Placeholder text
           elementId: ''
           styles:
