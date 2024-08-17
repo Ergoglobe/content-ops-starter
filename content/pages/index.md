@@ -47,7 +47,7 @@ sections:
     actions:
       - type: Button
         label: Text Now
-        url: ''
+        url: 'sms:+16109845473&body=Driving%20School%20Information'
         icon: arrowRight
         iconPosition: right
         style: secondary
