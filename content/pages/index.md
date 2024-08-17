@@ -237,7 +237,7 @@ sections:
     items:
       - type: FeaturedItem
         title: English
-        subtitle: Sales
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
