@@ -66,10 +66,8 @@ sections:
       - type: FeaturedItem
         title: Flexible Hours
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Monday - Sunday 7:00am – 9:00pm
         image:
           type: ImageBlock
           url: /images/icon3.svg
