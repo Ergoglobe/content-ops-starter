@@ -97,7 +97,7 @@ sections:
           Bill: 610-984-5473
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/phone-call.png
           altText: Background alt text
           styles:
             self:
