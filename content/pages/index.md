@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: Call Now
-        url: ''
+        url: 'tel:6108447866'
         icon: arrowRight
         iconPosition: right
         style: secondary
