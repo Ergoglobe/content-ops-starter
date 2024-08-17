@@ -92,7 +92,9 @@ sections:
         tagline: This is the tagline
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Alan: 610-844-7866
+
+          Bill: 610-984-5473
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
