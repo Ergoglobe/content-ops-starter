@@ -15,7 +15,7 @@ sections:
       of 6 to 10 hours.
     actions:
       - type: Button
-        label: Get started
+        label: Call Now
         url: ''
         icon: arrowRight
         iconPosition: right
