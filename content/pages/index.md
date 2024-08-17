@@ -89,7 +89,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Call
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Alan: 610-844-7866
