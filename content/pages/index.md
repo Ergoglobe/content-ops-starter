@@ -92,7 +92,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Completion Certificate
-        subtitle: Numbers Done
+        subtitle: Insurance
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
