@@ -120,10 +120,8 @@ sections:
       - type: FeaturedItem
         title: Insurance
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Our students are fully insured up to 1 million dollars.
         image:
           type: ImageBlock
           url: /images/icon1.svg
