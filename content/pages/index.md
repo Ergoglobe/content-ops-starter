@@ -45,7 +45,7 @@ sections:
       type: TitleBlock
       text: Defensive Driving
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       Getting a driver's license is easy but being a safe driver is very
       difficult. We can not afford to make any mistakes while driving a motor
