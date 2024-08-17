@@ -116,7 +116,7 @@ sections:
       - type: FeaturedItem
         title: Text
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Alan: 610-844-7866
 
