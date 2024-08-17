@@ -253,7 +253,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Spanish
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
