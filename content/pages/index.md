@@ -233,7 +233,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: We Can Speak A Few
     items:
       - type: FeaturedItem
         title: Account Executive
