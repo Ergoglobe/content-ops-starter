@@ -12,7 +12,19 @@
         "type": "ImageBlock"
     },
     "primaryLinks": [],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/Call",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
