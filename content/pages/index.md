@@ -85,7 +85,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: 'Any Day, Any Time, Including Holidays'
     items:
       - type: FeaturedItem
         title: Feature Item One
