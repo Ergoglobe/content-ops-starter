@@ -65,7 +65,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Driving Test Appointments
-        subtitle: Numbers Done
+        subtitle: Convenient
         text: >
           We will take care of scheduling road test appointments at a PennDOT
           Driver License Center at a time and date that you prefer.
