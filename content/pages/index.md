@@ -274,7 +274,7 @@ sections:
           Our students are fully insured up to 1 million dollars.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/insurance.png
           altText: Placeholder text
           elementId: ''
           styles:
