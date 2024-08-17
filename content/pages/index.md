@@ -123,7 +123,7 @@ sections:
           Bill: 610-984-5473
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/email.png
           altText: Background alt text
           styles:
             self:
