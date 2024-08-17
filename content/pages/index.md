@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We provide a variety of services for teaching you how to drive safely,
+      confidently, and competently.
     actions:
       - label: Get started
         altText: ''
