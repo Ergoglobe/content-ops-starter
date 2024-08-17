@@ -66,10 +66,9 @@ sections:
       - type: FeaturedItem
         title: Driving Test Appointments
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We will take care of scheduling road test appointments at a PennDOT
+          Driver License Center at a time and date that you prefer.
         image:
           type: ImageBlock
           url: /images/icon1.svg
