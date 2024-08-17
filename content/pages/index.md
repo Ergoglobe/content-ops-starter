@@ -248,7 +248,7 @@ sections:
           your insurance.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/certificate.png
           altText: Placeholder text
           elementId: ''
           styles:
