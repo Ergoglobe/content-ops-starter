@@ -17,7 +17,7 @@
             "type": "Button",
             "label": "Contact",
             "altText": "",
-            "url": "/Call",
+            "url": "/Contact",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
