@@ -255,10 +255,7 @@ sections:
       - type: FeaturedItem
         title: Spanish
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
