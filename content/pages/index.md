@@ -119,7 +119,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Insurance
-        subtitle: Numbers Done
+        subtitle: Protection
         text: |
           Our students are fully insured up to 1 million dollars.
         image:
