@@ -47,8 +47,10 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Getting a driver's license is easy but being a safe driver is very
+      difficult. We can not afford to make any mistakes while driving a motor
+      vehicle so we constantly stress defensive driving techniques while
+      instructing.
     actions:
       - type: Button
         label: Get started
