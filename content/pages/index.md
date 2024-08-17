@@ -9,8 +9,10 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      At Advance Driving School our most important objective is to train drivers
+      who are 100% safe and confident. Our unique way of teaching will help you
+      learn from no experience to drive safely and with confidence in an average
+      of 6 to 10 hours.
     actions:
       - type: Button
         label: Get started
