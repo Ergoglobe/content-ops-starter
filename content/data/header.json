@@ -15,7 +15,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Contact",
             "altText": "",
             "url": "/Call",
             "showIcon": false,
