@@ -255,7 +255,14 @@ sections:
       - type: FeaturedItem
         title: Spanish
         subtitle: ''
-        text: ''
+        text: >
+          We know enough basics to teach you how to drive and if you have
+          someone who can help translate we can teach you faster.
+
+
+          Sabemos suficientes conceptos básicos para enseñarle a conducir y si
+          tiene a alguien que pueda ayudarlo a traducir, podemos enseñarle más
+          rápido.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
