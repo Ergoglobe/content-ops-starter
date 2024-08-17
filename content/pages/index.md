@@ -29,7 +29,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/1_twFSBYafi4rxtuLC1r1JLQ.jpg
       altText: Dope design preview
     badge:
       type: Badge
@@ -67,7 +67,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/043688df-what-is-defensive-driving-1024x576.jpg
       altText: Fun feature preview
     badge:
       type: Badge
@@ -97,7 +97,7 @@ sections:
           Bill: 610-984-5473
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/phone-call.png
           altText: Background alt text
           styles:
             self:
@@ -123,7 +123,7 @@ sections:
           Bill: 610-984-5473
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/email.png
           altText: Background alt text
           styles:
             self:
@@ -170,7 +170,7 @@ sections:
           senior citizens
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/vigilance.png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -197,7 +197,7 @@ sections:
           the lesson is over.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/location.png
           altText: Featured icon two
           elementId: ''
         actions: []
@@ -221,7 +221,7 @@ sections:
           Driver License Center at a time and date that you prefer.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/schedule.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -248,7 +248,7 @@ sections:
           your insurance.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/certificate.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -274,7 +274,7 @@ sections:
           Our students are fully insured up to 1 million dollars.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/insurance.png
           altText: Placeholder text
           elementId: ''
           styles:
@@ -300,7 +300,7 @@ sections:
           Monday - Sunday 7:00am – 9:00pm
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/work-schedule.png
           altText: Featured icon three
           elementId: ''
         actions: []
