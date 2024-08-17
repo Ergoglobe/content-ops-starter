@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Our Goal
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Be in safe hands ( and feet )
     text: >
       At Advance Driving School our most important objective is to train drivers
       who are 100% safe and confident. Our unique way of teaching will help you
